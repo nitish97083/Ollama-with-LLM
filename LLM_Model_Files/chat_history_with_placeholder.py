@@ -37,5 +37,5 @@ def chat_with_llm(session_id,input):
     return output; 
 
 user_id = 'Test123'
-response = chat_with_llm(user_id,"JTell me who am I?")
+response = chat_with_llm(user_id,"Tell me who am I?")
 print(f"response --> {response}")

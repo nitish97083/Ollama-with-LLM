@@ -2,7 +2,7 @@ from langchain_ollama import ChatOllama
 
 
 base_url = "http://localhost:11434";
-model = "ManavEdu";
+model_nam = "ManavEdu";
 g_model = "gemma4"
 llm = "llama3.2"
 
