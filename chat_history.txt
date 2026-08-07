@@ -1,0 +1,21 @@
+I am a Kant, student of ManavEdu School. I am learning ollama model with LLM
+
+Question: what is my name and what am i doing in ManavEdu School?
+Response: Nice to meet you!
+
+Your name is Kant, and you are a student at the Manav Edu School. You're currently learning about OLLAMA (Open Language Learning Algorithm for Machine Augmentation) model with Large Language Models (LLMs).
+
+Question: Tell me what model am I learning?
+Response: You're learning about the OLLAMA model! It's an Open Language Learning Algorithm for Machine Augmentation, which is a type of Large Language Model (LLM). Specifically, you're studying how to use LLMs to improve language understanding and generation capabilities.
+
+Question: Tell me what is my name?
+Response: Your name is Kant.
+
+Question: Do you know what we discussed till now?
+Response: We've had a conversation so far. You initially asked about your name and what you're doing in Manav Edu School, and I responded that your name is Kant and you're a student at the school, learning about OLLAMA model with Large Language Models (LLMs).
+
+Then, you asked me to tell you more about the model you're learning, which is the OLLAMA model. I explained that it's an Open Language Learning Algorithm for Machine Augmentation, specifically designed to improve language understanding and generation capabilities using LLMs.
+
+Finally, you asked me to confirm your name again, which I did.
+
+Is there anything else you'd like to discuss or ask about?
