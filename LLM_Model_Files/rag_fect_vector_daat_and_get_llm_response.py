@@ -56,7 +56,6 @@ retriver = vector_search.as_retriever(
 # response_docs = retriver.invoke(question)
 # print(f'response  is {response_docs}')
 
-model.invoke("Hi")
 
 def format_docs(docs):
     return '\n\n'.join([doc.page_content for doc in docs])
