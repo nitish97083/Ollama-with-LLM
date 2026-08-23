@@ -17,14 +17,14 @@ from langchain_core.output_parsers import StrOutputParser
 ## Model setup 
 
 base_url = "http://localhost:11434";
-model_nam = "ManavEdu";
+model_man = "ManavEdu";
 g_model = "gemma4"
 llm = "llama3.2"
 
 
 model = ChatOllama(
     base_url=base_url,
-    model=llm,
+    model=model_man,
     #validate_model_on_init=True,
     temperature=0.8,
     num_predict=512,
