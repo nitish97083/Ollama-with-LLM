@@ -15,8 +15,8 @@ import os
 
 from dotenv import load_dotenv
 load_dotenv()
-api_key = os.getenv("LANGSMITH_API_KEY")
-end_point = os.getenv("LANGSMITH_ENDPOINT")
+api_key = os.getenv("TAVILY_API_KEY")
+end_point = os.getenv("test_api_key")
 
 # api_key = os.getenv("API_KEY")
 

@@ -37,8 +37,16 @@ ne_li = []
 for i in range(0,len(li),over-2):
     
     ne_li.append(li[i:i+over])
-    print(f" nummber is --> {i}")
+    # print(f" nummber is --> {i}")
 
-print(f"new list --> {ne_li}")
+# print(f"new list --> {ne_li}")
 
 #  6, 9,12,15,18
+
+t_dict = {1:['l1','l2'],2:'test',3:'Dict'}
+
+print(f"dict is  {t_dict}")
+# for k,v in t_dict.items():
+#     print(f"dict is {k} : {v}")
+
+    
